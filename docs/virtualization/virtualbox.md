@@ -5,7 +5,7 @@
 ### Установка программы
 1. Для начала, скачайте `exe` файл VirualBox с [официального сайта](https://download.virtualbox.org/virtualbox/7.2.20/VirtualBox-7.2.20-175154-Win.exe)
 2. Откройте установщик и произведите базовую установку. Для удобства можете поменять расположение самой программы (не обязательно)
-3. Перед началом настройки, также скачайте [.iso образ Windows 10](https://software.download.prss.microsoft.com/dbazure/Win10_22H2_English_x64v1.iso?t=724876f3-55fc-448c-8186-de1ae3bd4d7a&P1=1790245997&P2=602&P3=2&P4=hZonCHEIEeImqtF0glMOiQtboM5lK9CACqwL2BvJPx0M1YrVpE4%2FVbgOKARezgT0Js92DJHZm2tE5snv2SBbDeEzca%2F9bJozTOkhex2AMdE%2FLRvYUoBPy9AGc%2FtMWZSP3CCdhoz7dpdtoT9oRkyJ4nQWRCSNpMNMrMt3NOSJKwMfPGGifNJUKxKa1zbqd%2FmghfMkJm4t7ovksozORrNXKvRyO5EZiqtiAPkHVx4y1DKAR09XX06nViy%2BOgGfL8F0qE3z3t5tfi2%2BqZEuQa5ZwaI0W78jRQATbbeESuyUUeiTBmOEKoO%2Bfdx3YiWYF0Xn0GDw5Byh%2BRA2mPrEsbk9Uw%3D%3D) и перенесите его в удобное для вас место
+3. Перед началом настройки, также скачайте [.iso образ Windows 10 pro](https://archive.org/download/windows-10-pro-x-64-en-us-activated/Windows%2010%20Pro%20x64%20en-US%20Activated.iso) (есть [торрент-файл](https://archive.org/download/windows-10-pro-x-64-en-us-activated/windows-10-pro-x-64-en-us-activated_archive.torrent)) и перенесите его в удобное для вас место
 
 ### Базовая настройка программы
 1. После открытия программы, нажмите `Создать` в левом верхнем углу \
